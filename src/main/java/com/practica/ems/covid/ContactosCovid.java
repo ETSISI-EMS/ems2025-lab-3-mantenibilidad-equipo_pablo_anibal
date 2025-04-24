@@ -102,7 +102,6 @@ public class ContactosCovid {
 
 	public void loadDataFile(String fichero, boolean reset) {
 		FileReader fr = null;
-		String datas[] = null;
 		File archivo = null;
 		String data;
 		try {
